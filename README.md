@@ -4,23 +4,23 @@
 * Content
 * Logistic Regression
 * Data
-* Iris Species
-* Libraries
-* Reading Data
-* Visualization and Understanding
-  * Difference analysis between Seabon and species
-  * Difference analysis between Plotly and species
-* Data Editing
+  * Iris Species
+  * Libraries
+  * Reading Data
+  * Visualization and Understanding
+    * Difference analysis between Seabon and species
+    * Difference analysis between Plotly and species
+  * Data Editing
 * Logistic Regression
-* Normalization
-* Train Test Split
-* Parameter İnitialize
-* Sigmoid function
-* Cost, gradient
-* Update Parameter
-* Predict
-* Logistic Regression with Math
-* Sklearn with LR
+  * Normalization
+  * Train Test Split
+  * Parameter İnitialize
+  * Sigmoid function
+  * Cost, gradient
+  * Update Parameter
+  * Predict
+  * Logistic Regression with Math
+  * Sklearn with LR
 * Reference
 
 ## Logistic Regression
